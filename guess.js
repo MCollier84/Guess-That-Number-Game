@@ -106,3 +106,4 @@ while (restartGame){
       playAgain = prompt(`Please enter Y or N`);
     }
   }
+}
